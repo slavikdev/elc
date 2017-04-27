@@ -1,2 +1,1 @@
-# elc
-ElasticSearch console client
+# ELC: ElasticSearch console client
